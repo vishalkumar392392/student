@@ -1,0 +1,5 @@
+{
+	"appName": "Student-service",
+	"lob": "CBRE",
+	"enableLogsInInterceptor": true	
+}
