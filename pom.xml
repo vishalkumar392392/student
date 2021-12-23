@@ -15,7 +15,7 @@
 	<name>student-service</name>
 	<description>student-service</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>8</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
