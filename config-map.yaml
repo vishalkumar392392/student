@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: config-map
+data:
+  config-key: Hello vishal
+  host.docker.internal: host.docker.internal
